@@ -138,9 +138,6 @@ python manage.py migrate
 
 python manage.py runserver
 
-```
-
-O backend estará rodando em: ``http://127.0.0.1:8000/``
 
 ---
 ## 🧱 Banco de Dados
@@ -178,5 +175,5 @@ Todos os dados inseridos via frontend são persistidos automaticamente.
 ---
 
 ## 🔗 Links
-- **Backend (UniPost_Api)**: [https://github.com/Crystian-Paz/UniPost_Api](https://github.com/Kaique-Lemos/UniPost-API.git)  
-- **Frontend (UniPost)**: [https://github.com/Crystian-Paz/UniPost](https://github.com/Kaique-Lemos/UniPost.git)
+- **Backend (UniPost_Api)**: [https://github.com/Kaique-Lemos/UniPost-API](https://github.com/Kaique-Lemos/UniPost-API.git)  
+- **Frontend (UniPost)**: [https://github.com/Kaique-Lemos/UniPost](https://github.com/Kaique-Lemos/UniPost.git)
