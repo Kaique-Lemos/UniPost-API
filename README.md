@@ -2,7 +2,7 @@
 
 ## 📖 Descrição
 UniPost_Api é o backend do sistema **UniPost**, desenvolvido em **Django** com **Django REST Framework**.  
-Ele fornece uma API RESTful completa para gerenciamento de alunos, que é consumida pelo [UniPost (Frontend)](https://github.com/Crystian-Paz/UniPost). A API permite cadastrar, listar, editar e excluir registros, garantindo persistência de dados em **SQLite**.
+Ele fornece uma API RESTful completa para gerenciamento de alunos, que é consumida pelo [UniPost (Frontend)](https://github.com/Kaique-Lemos/UniPost.git). A API permite cadastrar, listar, editar e excluir registros, garantindo persistência de dados em **SQLite**.
 
 ---
 
@@ -172,8 +172,3 @@ Todos os dados inseridos via frontend são persistidos automaticamente.
 📚 Persistência de dados com SQLite  
 🗓️ 2025  
 
----
-
-## 🔗 Links
-- **Backend (UniPost_Api)**: [https://github.com/Kaique-Lemos/UniPost-API](https://github.com/Kaique-Lemos/UniPost-API.git)  
-- **Frontend (UniPost)**: [https://github.com/Kaique-Lemos/UniPost](https://github.com/Kaique-Lemos/UniPost.git)
