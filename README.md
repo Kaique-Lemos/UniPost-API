@@ -69,7 +69,7 @@ DELETE   /api/alunos/{id}/       Excluir um aluno
 
 ## 🧠 Como Executar o Backend Localmente
 
-Este repositório contém apenas o backend. Para a interface de usuário, acesse o repositório do [UniPost (Frontend)](https://github.com/Crystian-Paz/UniPost).
+Este repositório contém apenas o backend. Para a interface de usuário, acesse o repositório do [UniPost (Frontend)](https://github.com/Kaique-Lemos/UniPost.git).
 
 1️⃣ **Clonar o repositório:**
 
@@ -178,5 +178,5 @@ Todos os dados inseridos via frontend são persistidos automaticamente.
 ---
 
 ## 🔗 Links
-- **Backend (UniPost_Api)**: [https://github.com/Crystian-Paz/UniPost_Api](https://github.com/Crystian-Paz/UniPost_Api)  
-- **Frontend (UniPost)**: [https://github.com/Crystian-Paz/UniPost](https://github.com/Crystian-Paz/UniPost)
+- **Backend (UniPost_Api)**: [https://github.com/Crystian-Paz/UniPost_Api](https://github.com/Kaique-Lemos/UniPost-API.git)  
+- **Frontend (UniPost)**: [https://github.com/Crystian-Paz/UniPost](https://github.com/Kaique-Lemos/UniPost.git)
